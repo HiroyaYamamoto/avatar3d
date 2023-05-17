@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-avatar_linktree-0.1";
 const contentToCache = [
     "Build/web.loader.js",
-    "Build/web.framework.js.gz",
-    "Build/web.data.gz",
-    "Build/web.wasm.gz",
+    "Build/web.framework.js",
+    "Build/web.data",
+    "Build/web.wasm",
     "TemplateData/style.css"
 
 ];
