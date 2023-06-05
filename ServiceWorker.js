@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-avatar_linktree-0.1";
+const cacheName = "Crew inc.-Yanagisawa Avatar-0.1";
 const contentToCache = [
     "Build/web.loader.js",
     "Build/web.framework.js",
